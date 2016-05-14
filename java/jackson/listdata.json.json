@@ -1,0 +1,79 @@
+{
+    "result": {
+        "title": "猛毒シリーズ",
+        "fishList": [
+            {
+                "no": 1,
+                "title": "アオブダイ",
+                "url": "http://crdoti.co.jp/furuya/1.png",
+                "fishNameList": [
+                    "アオブダイ１号",
+                    "アオブダイ2号",
+                    "アオブダイ3号"
+                ]
+            },
+            {
+                "no": 2,
+                "title": "ヒョウモンダコ",
+                "url": "http://crdoti.co.jp/furuya/2.png",
+                "talent": {
+                    "legs": 8,
+                    "poison": "deadly"
+                }
+            },
+            {
+                "no": 3,
+                "title": "ハナブサイソギンチャク",
+                "url": "http://crdoti.co.jp/furuya/3.png",
+                "fishNameList": [
+                    "はなぶーさ",
+                    "いそぎーん",
+                    "ちゃっく"
+                ],
+                "talent": {
+                    "legs": 100,
+                    "poison": "a little bit"
+                }
+            },
+            {
+                "no": 4,
+                "title": "キロネックス",
+                "url": "http://crdoti.co.jp/furuya/4.png",
+                "fishNameList": [
+                    "きろーね",
+                    "くす"
+                ]
+            },
+            {
+                "no": 5,
+                "title": "アンボイナ",
+                "url": "http://crdoti.co.jp/furuya/5.png"
+            },
+            {
+                "no": 6,
+                "title": "ウミケムシ",
+                "url": "http://crdoti.co.jp/furuya/6.png"
+            },
+            {
+                "no": 7,
+                "title": "スベスベマンジュウガニ",
+                "url": "http://crdoti.co.jp/furuya/7.png"
+            },
+            {
+                "no": 8,
+                "title": "オリーブミナミウミヘビ",
+                "url": "http://crdoti.co.jp/furuya/8.png"
+            },
+            {
+                "no": 9,
+                "title": "カツオノエボシ",
+                "url": "http://crdoti.co.jp/furuya/9.png"
+            },
+            {
+                "no": 10,
+                "title": "オニダルマオコゼ",
+                "url": "http://crdoti.co.jp/furuya/0.png"
+            }
+        ]
+    }
+}
